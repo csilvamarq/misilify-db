@@ -24,5 +24,4 @@ CREATE TABLE IF NOT EXISTS Canciones (
 );
 
 -- Insertar datos de ejemplo (opcional)
-INSERT INTO Usuarios (nombre, apellido, email, password) VALUES
-    ('admin', NULL, 'admin@misilify.com', '$2a$10$6auWrNbJYfRn33cbnmY.e.xeogbXJkaNE9Jfv/4iBOOZ5IuEgNp1m');
+
